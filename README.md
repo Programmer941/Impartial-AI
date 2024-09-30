@@ -16,13 +16,13 @@ Now I'll present the user interface before finally showing some examples:
 
 There are a few key settings:
 
-**Always on**: well, it runs for each new page you go to (will probably cost a lot of $)
+**Always on**: Well, it runs for each new page you go to (will probably cost a lot of $).
 
-**Highlight page**: Highlights just the page you're on
+**Highlight page**: Highlights just the page you're on.
 
-**Min, Max characters**: the amount of required characters on a page to run. For example you don't need this to run on example.com so you can require more than 1000 characters, but you also don't want to pass 100,000 characters into your OpenAI Api Key.
+**Min, Max characters**: The amount of required characters on a page to run. For example you don't need this to run on example.com so you can require more than 1000 characters, but you also don't want to pass 100,000 characters into your OpenAI Api Key.
 
-**API Key**: Any valid OpenAI Key
+**API Key**: Any valid OpenAI Key.
 
 This extension relies on openai for analysis and is the only prerequisite to use this extension (other than chrome).
 
@@ -40,7 +40,7 @@ https://medium.com/@jackrossdixon/sugar-sick-45f68b185f52
 # Due Notes
 In the code there are more biases. I decided to comment those out, as I felt this extension is more joyous with the broader aspects of bias.
 
-**This was made in only 2 days for a hackathon**
+**This was made in only 2 days for a hackathon.**
 
 This was made possible with my great team: Tawanda, Joseph, and Yashas.
 
@@ -51,7 +51,7 @@ This was made possible with my great team: Tawanda, Joseph, and Yashas.
 
 # Future Improvement
 There are a few ways this can be improved that were discussed when finishing this application:
-* Popups after every _ consecutive specific biases on a subject
-* Categorizing biases based on subject / other factors
+* Popups after every _ consecutive specific biases on a subject.
+* Categorizing biases based on subject / other factors.
 	* Ex: Hershey's says chocolate and sweets are good for you a lot. You make this a category and add new biases to existing categories.
 * Probably some more things I'm forgetting!
