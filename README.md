@@ -5,9 +5,10 @@ A chrome extension with the goal of bringing to light the subtle biases that aff
 1) Highlighting biases on webpages
 2) Summarizing cumulative biases over time
 
-This extension relies on openai for analysis and is the only prerequisite to use this extension.
+The extension can also find uses in other ways, like analyzing different types of content. For example: maybe best selling books have the perfect amount of bias... you never know. Also, not all the bias highlighted is inherently negative.
 
 Now I'll present the user interface before finally showing some examples:
+
 ![General User Interface](https://media.discordapp.net/attachments/806981912538513428/1290345000496009247/image.png?ex=66fc1eed&is=66facd6d&hm=1e26b5a5196639559f0a8d472faff0c9a4ba01209d03e64a81b688e5649461ee&=&format=webp&quality=lossless&width=918&height=909)![Summary of all seen biases](https://cdn.discordapp.com/attachments/806981912538513428/1290345552231399597/image.png?ex=66fc1f71&is=66facdf1&hm=83134e56a5defc516bd21433735980d088a22bfff3cfdef639c072abb577533b&=)
 
 
@@ -22,6 +23,9 @@ There are a few key settings:
 **Min, Max characters**: the amount of required characters on a page to run. For example you don't need this to run on example.com so you can require more than 1000 characters, but you also don't want to pass 100,000 characters into your OpenAI Api Key.
 
 **API Key**: Any valid OpenAI Key
+
+This extension relies on openai for analysis and is the only prerequisite to use this extension (other than chrome).
+
 
 ## Examples
 Oh, it also works in other languages by the way!
