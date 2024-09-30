@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+		<title>Elements - Solid State by HTML5 UP</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+		<link rel="stylesheet" href="assets/css/main.css">
+        <link rel="stylesheet" href="./styles.css">
+
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+<body>
+    <div class="wrapper">
+        <div class="inner">
+            <section>
+                <h3 class="major" style="text-align: center; font-size: 20px;">Impartial AI Settings</h3>
+                <form method="post" action="#">
+                    <div class="row gtr-uniform">
+                        <div class="col-6 col-12-small" style="display: flex; justify-content: center; align-items: center; text-align: center;">
+
+                            <span style="margin-top: 5px; padding-right: 10px;">
+                                <input type="checkbox" id="demo-copy" name="demo-copy">
+                                <label for="demo-copy" id="checkH">Always Enable Highlighting!</label>
+                            </span>
+
+                            <a href="#" class="button primary small" id="HighlightNow">Highlight This Page</a>
+
+                        </div>
+                        <div class="col-6 col-12-xsmall" style="text-align: center">
+                            <label for="demo-name">Minimum Character</label>
+                            <input type="text" name="demo-name" id="demo-name minChar" value="">
+                        </div>
+                        <div class="col-6 col-12-xsmall" style="text-align: center">
+                            <label for="demo-email">Max Characters</label>
+                            <input type="text" name="demo-email" id="demo-email maxChar" value="">
+                        </div>
+                        <div class="col-12">
+                            <label for="demo-category">OpenAI Api</label>
+                            <input type="text" name="demo-name" id="demo-name apiKey" value="API KEY">
+                        </div>
+
+                        <div class="col-12" style="display: flex; justify-content: center; align-items: center; text-align: center;">
+                            <a href="#" class="button secondary" id="Summarize">Summarize</a>
+                        </div>
+                    </div>
+                </form>
+            </section>
+
+            <section>
+                <table id="biasTable">
+                    <thead>
+                        <tr>
+                            <th>Bias</th>
+                            <th>Description</th>
+                            <th>Times Seen</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                            
+                            </tbody>
+                            <tfoot>
+                                <tr>
+                                    <td colspan="2"></td>
+                                    <td id="totalseen">Total: _</td>
+                                </tr>
+                            </tfoot>
+                        </table>
+                <p id="BiasSummary"><span class="image left">
+                    
+                </p>
+            </section>
+
+        </div>
+    </div>
+
+    <script src="./popup.js"></script>
+</body>
+</html>
