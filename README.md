@@ -9,7 +9,8 @@ The extension can also find uses in other ways, like analyzing different types o
 
 Now I'll present the user interface before finally showing some examples:
 
-![General User Interface](https://media.discordapp.net/attachments/806981912538513428/1290345000496009247/image.png?ex=66fc1eed&is=66facd6d&hm=1e26b5a5196639559f0a8d472faff0c9a4ba01209d03e64a81b688e5649461ee&=&format=webp&quality=lossless&width=918&height=909)![Summary of all seen biases](https://cdn.discordapp.com/attachments/806981912538513428/1290345552231399597/image.png?ex=66fc1f71&is=66facdf1&hm=83134e56a5defc516bd21433735980d088a22bfff3cfdef639c072abb577533b&=)
+![image5](https://github.com/user-attachments/assets/40b2a354-8bf1-42f9-b7c2-cdd7464de35e)
+![image6](https://github.com/user-attachments/assets/987ce8b2-7669-4a5d-83b4-6cb95cc9b26d)
 
 
 # Settings
@@ -28,11 +29,14 @@ This extension relies on openai for analysis and is the only prerequisite to use
 
 
 ## Examples
+
+<img width="501" alt="image1" src="https://github.com/user-attachments/assets/5be1d8a3-cabf-4cb8-bdc0-e125db5b0f88">
+<img width="707" alt="image2" src="https://github.com/user-attachments/assets/3c66fba3-16ab-4cde-bf6d-aaf6cb796ce2">
+<img width="650" alt="image3" src="https://github.com/user-attachments/assets/615023b0-a6a8-4ec8-b70a-9c93970f44e4">
+<img width="680" alt="image4" src="https://github.com/user-attachments/assets/569922af-2ce3-45e3-a828-f8a5312fb76a">
+
 Oh, it also works in other languages by the way!
-![Highlight Ex1](https://media.discordapp.net/attachments/806981912538513428/1290340601870553089/multilanguage.png?ex=66fc1ad4&is=66fac954&hm=8029193dea6ed54de0f15642c08880d0fe6de6b3cba147ce7ed8a8d6cef32622&=&format=webp&quality=lossless&width=1430&height=825)
-![Highlight Ex2](https://media.discordapp.net/attachments/806981912538513428/1290340602218676316/example2.png?ex=66fc1ad4&is=66fac954&hm=2e2d86a18369cc6c40110e19d9c710d33719ecf7894f6e3e865fdb262570aaac&=&format=webp&quality=lossless&width=1554&height=816)
-![Highlight Ex3](https://media.discordapp.net/attachments/806981912538513428/1290340601371299923/lastexample.png?ex=66fc1ad4&is=66fac954&hm=0225febe6b3d7a33afea137fa80c1941e656130927dd5f366a937f685cd97538&=&format=webp&quality=lossless&width=1102&height=565)
-![Highlight Ex4](https://media.discordapp.net/attachments/806981912538513428/1290340602562482229/example.png?ex=66fc1ad5&is=66fac955&hm=c36dc2fc328357a5c1638ffce534e3cf342b41565933db4407b55c257bbbc7dc&=&format=webp&quality=lossless&width=1496&height=717)
+
 If you want to try it out for yourself I used the following links:
 https://weekly.chosun.com/news/articleView.html?idxno=37338
 https://medium.com/@jackrossdixon/sugar-sick-45f68b185f52
